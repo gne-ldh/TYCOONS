@@ -4,3 +4,4 @@ capturing images is done
 storage of  data is almost done
 cerficate generation task is completed 
 database is created with croped images
+all the data are stored successfully 
