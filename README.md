@@ -4,7 +4,7 @@ capturing images is done
 storage of  data is almost done
 cerficate generation task is completed 
 database is created with croped images
-all the data are stored successfully 
+All the data are stored successfully 
 
 
 installation of project /........
@@ -18,4 +18,5 @@ step to start the project ................
 run the START.fig file  and the program start running 
 
 THANK YOU .....(:-
+
 
