@@ -9,9 +9,9 @@ all the data are stored successfully
 
 installation of project /........
 
-download = 1. project name file 2.certificate.tif 3.excel file confirm 
+Please download these files from github accounts = 1. project name file 2.certificate.tif 3.excel file confirm 
 
-save all downloads in matlab files saving location  / in matlab set the path where the downloaded all the project items .
+Open matlab and  set the path where the downloaded all the above  project files.
 
 step to start the project ................
 
